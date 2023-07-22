@@ -8,6 +8,8 @@ This is a full-stack web app with database connectivity that replicates the Leit
 But in this project, I implemented a three-box system for flashcards instead of three, it allows users to test their knowledge and move cards to higher boxes upon correct answers.
 
 This project is run in a virtual environment, you can find the venv folder inside. 
+# Why Do You Need Virtual Environments?
+Python isn’t great at dependency management. Virtual environments are like isolated bubbles for projects. They help keep things organized and prevent any messy clashes between different packages. By using them, you can manage dependencies, test code, and ensure your projects run smoothly without causing chaos in the system. They also make it easier to share projects with teammates and deploy them on different machines. 
 
 ** I used Visual Studio Code built this project. If you are using Visual Studio Code too, please nake sure that you installed Django extension and check if you have selected the correct Python interpreter in Visual Studio Code by the steps below:
 Open your Django project in Visual Studio Code, and in the bottom status bar, click on the Python version. Select the correct Python interpreter that has Django installed. (Usually, it has the recommended one with the 'venv' in it)
