@@ -9,7 +9,7 @@ But in this project, I implemented a three-box system for flashcards instead of 
 
 This project is run in a virtual environment, you can find the venv folder inside. 
 
-# I used Visual Studio Code built this project. If you are using Visual Studio Code too, please nake sure that you installed Django extension and check if you have selected the correct Python interpreter in Visual Studio Code by the steps below:
+** I used Visual Studio Code built this project. If you are using Visual Studio Code too, please nake sure that you installed Django extension and check if you have selected the correct Python interpreter in Visual Studio Code by the steps below:
 Open your Django project in Visual Studio Code, and in the bottom status bar, click on the Python version. Select the correct Python interpreter that has Django installed. (Usually, it has the recommended one with the 'venv' in it)
 
 ## Create a Virtual Environment and Add Dependencies
