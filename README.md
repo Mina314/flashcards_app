@@ -17,8 +17,10 @@ Open your Django project in Visual Studio Code, and in the bottom status bar, cl
 ## Create a Virtual Environment and Add Dependencies
 First, you can make a folder called 'flashcards-app' and go to the folder in the terminal. 
 ```python
+
 mkdir flashcards_app
 cd flashcards_app
+
 ```
 
 Then, set up a virtual environment and active it:
