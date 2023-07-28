@@ -33,14 +33,22 @@ $ venv\Scripts\activate  # For Windows
 ```
 
 After active the virtual environment, we can add dependincies (in the terminal, you should see (venv) in the front of your username):
-* (venv) $ pip install django
+```
+(venv) $ pip install django
+```
 
 After installing Django, you can check its version using the following command:
-* (venv) $ python -m django --version
+```
+(venv) $ python -m django --version
+```
 
 Initialize your Django project:
-* (venv) $ django-admin startproject flashcards .
+```
+(venv) $ django-admin startproject flashcards .
+```
 
 ## Run the Django project: 
 Once the virtual environment is activated, you can run your Django project by using the following command:
-* (venv) $ python manage.py runserver
+```
+(venv) $ python manage.py runserver
+```
