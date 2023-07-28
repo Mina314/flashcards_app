@@ -18,37 +18,40 @@ Open your Django project in Visual Studio Code, and in the bottom status bar, cl
 First, you can make a folder called 'flashcards-app' and go to the folder in the terminal. 
 ```
 
-$ mkdir flashcards_app
-$ cd flashcards_app
+mkdir flashcards_app
+cd flashcards_app
 
 ```
 
 Then, set up a virtual environment and active it:
 ```
 
-$ python -m venv venv
-$ source venv/bin/activate  # For macOS/Linux
-$ venv\Scripts\activate  # For Windows
+python -m venv venv
+source venv/bin/activate  # For macOS/Linux
+venv\Scripts\activate  # For Windows
 
 ```
 
 After active the virtual environment, we can add dependincies (in the terminal, you should see (venv) in the front of your username):
 ```
-(venv) $ pip install django
+pip install django
 ```
 
 After installing Django, you can check its version using the following command:
 ```
-(venv) $ python -m django --version
+python -m django --version
+
 ```
 
 Initialize your Django project:
 ```
-(venv) $ django-admin startproject flashcards .
+django-admin startproject flashcards .
+
 ```
 
 ## Run the Django project: 
 Once the virtual environment is activated, you can run your Django project by using the following command:
 ```
-(venv) $ python manage.py runserver
+python manage.py runserver
+
 ```
