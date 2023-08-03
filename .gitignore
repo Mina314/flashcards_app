@@ -1,0 +1,9 @@
+/venv/
+
+/cards/__pycache__/
+/cards/migrations/
+
+/cards/templatetags/__pycache__/
+
+/flashcards/__pycache__/
+/flashcards/venv/
