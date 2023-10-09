@@ -57,9 +57,11 @@ python manage.py runserver
 ```
 
 ## Demo:
-
+Main page:
 <img width="486" alt="Screenshot 2023-10-09 at 12 28 38 PM" src="https://github.com/Mina314/flashcards_app/assets/64227723/92d530da-1a45-4158-a680-d7f82a3212ac">
 
+All cards:
 <img width="467" alt="Screenshot 2023-10-09 at 12 28 50 PM" src="https://github.com/Mina314/flashcards_app/assets/64227723/5a20d24a-3655-4295-80ed-41fb50996bf2">
 
+Create new cards:
 <img width="440" alt="Screenshot 2023-10-09 at 12 29 58 PM" src="https://github.com/Mina314/flashcards_app/assets/64227723/6159bcd5-8ddc-4fd3-830a-e07ba7f46575">
