@@ -2,6 +2,14 @@
 
 This is a full-stack web app with database connectivity that replicates the Leitner system for efficient flashcard learning.
 
+Demo:
+<img width="486" alt="Screenshot 2023-10-09 at 12 28 38 PM" src="https://github.com/Mina314/flashcards_app/assets/64227723/92d530da-1a45-4158-a680-d7f82a3212ac">
+
+<img width="467" alt="Screenshot 2023-10-09 at 12 28 50 PM" src="https://github.com/Mina314/flashcards_app/assets/64227723/5a20d24a-3655-4295-80ed-41fb50996bf2">
+
+<img width="440" alt="Screenshot 2023-10-09 at 12 29 58 PM" src="https://github.com/Mina314/flashcards_app/assets/64227723/6159bcd5-8ddc-4fd3-830a-e07ba7f46575">
+
+
 * The Leitner system is a widely used method of efficiently using flashcards that was proposed by the German science journalist Sebastian Leitner in 1972. It is a simple implementation of the principle of spaced repetition, where cards are reviewed at increasing intervals.
 <img width="555" alt="Screen Shot 2023-07-22 at 10 01 40 AM" src="https://github.com/Mina314/flashcards_app/assets/64227723/1d59b382-a209-4f6c-a253-cfacca8fb3c1">
 
